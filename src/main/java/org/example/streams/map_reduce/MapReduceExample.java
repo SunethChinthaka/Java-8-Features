@@ -1,10 +1,8 @@
-package org.example.stream.map_reduce;
+package org.example.streams.map_reduce;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
-import java.util.OptionalDouble;
-import java.util.stream.IntStream;
 
 public class MapReduceExample {
     public static void main(String[] args) {

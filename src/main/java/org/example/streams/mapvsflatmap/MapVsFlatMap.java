@@ -1,4 +1,4 @@
-package org.example.stream.mapvsflatmap;
+package org.example.streams.mapvsflatmap;
 
 import java.util.List;
 import java.util.stream.Collectors;

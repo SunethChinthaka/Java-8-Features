@@ -1,4 +1,4 @@
-package org.example.stream.map_reduce;
+package org.example.streams.map_reduce;
 
 public class Employee {
     private int id;

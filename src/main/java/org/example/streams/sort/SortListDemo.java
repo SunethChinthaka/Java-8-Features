@@ -1,7 +1,7 @@
-package org.example.stream.sort;
+package org.example.streams.sort;
 
-import org.example.stream.employee.Employee;
-import org.example.stream.employee.EmployeeTestDB;
+import org.example.streams.employee.Employee;
+import org.example.streams.employee.EmployeeTestDB;
 
 import java.util.*;
 

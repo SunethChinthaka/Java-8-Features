@@ -1,4 +1,4 @@
-package org.example.stream.employee;
+package org.example.streams.employee;
 
 public class Employee {
     private int id;

@@ -1,4 +1,4 @@
-package org.example.stream.map_reduce;
+package org.example.streams.map_reduce;
 
 import java.util.List;
 import java.util.stream.Collectors;
